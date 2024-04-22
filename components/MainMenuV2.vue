@@ -26,17 +26,25 @@
             <NuxtLink href="#main">Главная</NuxtLink>
           </li>
           <li>
-            <NuxtLink href="#section-1">О Нас</NuxtLink>
+            <NuxtLink href="#section-1">О нас</NuxtLink>
           </li>
-          <li><NuxtLink href="#section-2">Приглашение</NuxtLink></li>
+          <li><NuxtLink href="#section-2">Ответы на вопросы</NuxtLink></li>
           <li>
-            <NuxtLink href="#section-3">Информация</NuxtLink>
+            <NuxtLink href="#section-3">План меропрития</NuxtLink>
+          </li>
+          <li>
+            <NuxtLink href="#section-4">Фотографии</NuxtLink>
+          </li>
+          <li>
+            <NuxtLink href="#section-5">Телеграмм</NuxtLink>
           </li>
         </ul>
       </div>
     </div>
     <div class="navbar-center">
-      <a class="btn btn-ghost mix-blend-luminosity text-xl">Свадьба</a>
+      <a class="btn btn-ghost montserrat-regular uppercase text-xl"
+        >Приглашение на свадьбу</a
+      >
     </div>
     <div class="navbar-end">&nbsp;</div>
   </div>

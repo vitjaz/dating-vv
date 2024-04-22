@@ -10,6 +10,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      boxShadow: {
+        '3xl': '0 0 150px 0 rgb(0 0 0 / 0.75);',
+      }
     },
   },
   plugins: [require('daisyui')],
